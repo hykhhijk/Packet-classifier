@@ -1,2 +1,11 @@
 Monitoring_and_Detection...:		같은 데이터셋 MITM에만 집중함
 Anomaly_Detection_on_IoT:		같은 데이터셋 모든 공격 이진분류
+1-s2.0-S1084...:			IoT를 위한 IDS노력 설문조사결과 여러 방법이 있었으며 아직 초기단계에 있다.
+https://www.statista.com/statistics/1183457/iot-connected-devices-worldwide/
+->:				IoT기기 2019~2030증가세	
+Security_Vulerablity:		IoT기기 취약점과 그에 대한 걱정 증가
+
+관련 연구 초반항목에 적용영역이 얼마나 넓은지도 적으면 좋겠다 예시(내 컴퓨터 pdf로 들어가는거라 참고 형식을 잘 적어야할듯)
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///C:/Users/hjhhi/Downloads/[GIP]_%ED%92%88%EB%AA%A9%EB%B3%84%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7_2020%20(2).pdf	
+	
+	
